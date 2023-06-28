@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @phonchikdev
-- 👀 I’m interested in c#, php, c++ programming
+- 👀 I’m interested in c#, java, php, c++ programming
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate sooner
 - 📫 How to reach me oguzhandev001@gmail.com
