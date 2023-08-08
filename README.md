@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phonchikdev
-- 👀 I’m interested in HTML5, CSS, Javascript, Node.js, PHP, React.js
-- 🌱 I’m currently learning React.js
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning Linux and Network Fundamentals
 - 💞️ I’m looking to collaborate sooner
 - 📫 How to reach me oguzhandev001@gmail.com
 
